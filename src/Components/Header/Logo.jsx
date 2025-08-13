@@ -4,7 +4,7 @@ const Logo = () => {
   return (
     <div className="logo">
       <span role="img">🍿</span>
-      <h1>Movie Mosiac</h1>
+      <h1>Movie Mania</h1>
     </div>
   );
 };
